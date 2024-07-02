@@ -1,9 +1,8 @@
 // Declaring and assigning in one step
 
-var playerName = "Kandra";
-var locationName = "The Dungeon of Doom";
-
-console.log(playerName + " is in " + locationName);
+var playername= "kandra";
+    var locationname= "the dungeon of doom";
+    console.log(playername + " is in " + locationname);
 
 
 
