@@ -1,13 +1,11 @@
 // Declaring and assigning in two steps
 
-var playerName;
-var locationName;
+var playername;
+    playername="Dhoni";
 
-playerName = "Lionel Messi";
-locationName = "Argentina";
-
-console.log(playerName + " is in " + locationName);
-
+var locationname;
+    locationname=" Chennai";
+    console.log(playername +"is in" + locationname);
 
 
 /* Further Adventures
