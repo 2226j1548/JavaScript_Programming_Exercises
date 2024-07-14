@@ -1,12 +1,12 @@
 // Using variables to represent a book
 
-var bookTitle;
-var bookAuthor;
-
-bookTitle = "The Hobbit";
-bookAuthor = "J. R. R. Tolkien";
-
-console.log(bookTitle + " by " + bookAuthor);
+var booktitle;
+   booktitle= " Ikigai";
+   var bookauthor1;
+   bookauthor1= "Hector Garcia";
+   var bookauthoe2;
+   bookauthor2= "francesc Miralles";
+   console.log(" The book" + booktitle + " written by " + bookauthor1 +" and "+ bookauthor2);
 
 
 
