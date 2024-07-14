@@ -1,8 +1,8 @@
 // Declaring and assigning in one step
 
 var playername= "kandra";
-    var locationname= "the dungeon of doom";
-    console.log(playername + " is in " + locationname);
+var locationname= "the dungeon of doom";
+    console.log(playername + " has health 50 and is in " + locationname);
 
 
 
