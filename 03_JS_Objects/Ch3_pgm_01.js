@@ -1,14 +1,23 @@
 // Using variables to represent a book
 
-var bookTitle;
-var bookAuthor;
 
-bookTitle = "The Hobbit";
-bookAuthor = "J. R. R. Tolkien";
+var book;
 
-console.log(bookTitle + " by " + bookAuthor);
+book = {
+    title : "Spritualism",
+    author : "Swami Vivekanandha",
+    published : 1975
+};
 
+console.log(book);
 
+book2 = {
+    title : "Hero",
+    author : "San Marshell",
+    published : 1975
+};
+
+console.log(book2);
 
 /* Further Adventures
  *
