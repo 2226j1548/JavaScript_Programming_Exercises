@@ -1,11 +1,11 @@
 // Declaring and assigning in two steps
 
 var playername;
-    playername="Dhoni";
-
-var locationname;
-    locationname=" Chennai";
-    console.log(playername +"is in" + locationname);
+var score;
+score = "100";
+console.log(score);
+playername="Dhoni";
+ console.log(playername + " has a score of " + score);
 
 
 /* Further Adventures
