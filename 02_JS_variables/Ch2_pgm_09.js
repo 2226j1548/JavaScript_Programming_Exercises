@@ -1,15 +1,12 @@
 // Valid and invalid variable names
-//valid var names
 var thisIsFine;
 var $noProblemHere;
 var _underscore43;
-var StartWithCapital;
+var startWithCapital;
 var z5;
-//invalid var names
-var 999;
-var 39Steps;
-var &nope;
-var single words only;
+var steps;
+var nope;
+var singlewordsonly;
 var yield;
 
 
