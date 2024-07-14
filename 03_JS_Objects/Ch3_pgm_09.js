@@ -1,20 +1,16 @@
 // Concatenating string properties
-
 var book1;
 var book2;
-
 book1 = {
-	title: "The Hobbit",
-	author: "J. R. R. Tolkien"
+	title1: "ikigai",
+	author1: "Hector Garcia"
 };
-
 book2 = {
-	title: "Northern Lights",
-	author: "Philip Pullman"
+	title2: "Harry Potter and the Sorcerer's Stone",
+	author2: "J. K. Rowling"
 };
-
-console.log(book1.title + " by " + book1.author);
-console.log(book2.title + " by " + book2.author);
+console.log(book1.title1 + " by " + book1.author1);
+console.log(book2.title2 + " by " + book2.author2);
 
 
 
