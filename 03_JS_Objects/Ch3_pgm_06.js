@@ -1,9 +1,9 @@
 // Using a variable as a property value
 
-var book;
+var book1;
    var bookName;
    bookName = "ikigai";
-   book = {
+   book1 = {
     title : bookName
    };
 
