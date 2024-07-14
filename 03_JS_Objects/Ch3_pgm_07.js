@@ -2,14 +2,20 @@
 
 var book1;
 var book2;
+
 book1 = {
     title : "ikigai",
-    author : "Hector Garcia"
+    author : "Hector Garcia",
+    published : "2016"
 };
 book2 = {
 	title : "Harry Potter and the Sorcerer's Stone",
-	author : "J. K. Rowling"
+	author : "J. K. Rowling",
+	published : "26 June 1997"
 };
+
+console.log("book1");
+console.log("book2");
 
 
 
