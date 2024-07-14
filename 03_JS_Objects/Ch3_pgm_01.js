@@ -1,12 +1,17 @@
 // Using variables to represent a book
 
-var booktitle;
-   booktitle= " Ikigai";
-   var bookauthor1;
-   bookauthor1= "Hector Garcia";
-   var bookauthoe2;
-   bookauthor2= "francesc Miralles";
-   console.log(" The book" + booktitle + " written by " + bookauthor1 +" and "+ bookauthor2);
+var booktitle= " Ikigai";
+var bookauthor= "Hector Garcia";
+console.log(" The book" + booktitle + " written by " + bookauthor);
+var booktitle2= " The Hobbit";
+var bookauthor2 = "J.R.R.Tolkien";
+console.log(" The book" + booktitle2 + " written by " + bookauthor2);
+var booktitle3 = "Pride and Prejudice";
+var bookauthor3 = "Jane Austen";
+console.log("The book " + booktitle3 + " written by " + bookauthor3);
+var booktitle4 = "To Kill a Mockingbird";
+var bookauthor4 = "Harper Lee";
+console.log("The book " + booktitle4 + " written by " + bookauthor4);
 
 
 
