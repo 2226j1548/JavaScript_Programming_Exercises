@@ -4,7 +4,7 @@ var book1;
 var book2;
 book1 = {
     title : "ikigai",
-    author : "Hector Garcia";
+    author : "Hector Garcia"
 };
 book2 = {
 	title : "Harry Potter and the Sorcerer's Stone",
