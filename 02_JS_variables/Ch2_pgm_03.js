@@ -1,9 +1,12 @@
 // Using a variable
 
-var score;
-score = 100;
-console.log(score);
+var score1;
+var score2;
+score1 = 99;
+console.log(score1);
 
+score2 = 100;
+console.log(score2);
 
 
 /* Further Adventures
