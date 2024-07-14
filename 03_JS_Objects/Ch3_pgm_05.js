@@ -2,9 +2,14 @@
 
 var book;
    book={
-    bookname:"ikigai"
+    title:"ikigai"
    };
-
+console.log("book");
+var book2;
+   book2={
+    title:"The Hobbit"
+   };
+console.log("book2");
 
 /* Further Adventures
  *
