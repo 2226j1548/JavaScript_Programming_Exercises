@@ -2,13 +2,12 @@
 
 var book;
 
-book = {
-    title : "The Hobbit",
-    author : "J. R. R. Tolkien",
-    published : 1937
-};
-
-console.log(book);
+book={
+    booktitle : "Ikigai",
+    bookauthor:"Hector Garcia",
+    published:"2016",
+   };
+   console.log(book);
 
 
 
