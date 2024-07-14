@@ -1,8 +1,7 @@
 // Assigning a value to a variable
 
-var score;
-    score=100;
-    console.log(score);
+var score = 100;
+
 
 /* Further Adventures
  *
