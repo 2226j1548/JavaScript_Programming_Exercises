@@ -1,17 +1,25 @@
 // Concatenating string properties
 var book1;
 var book2;
+var book3;
 book1 = {
-	title1: "ikigai",
-	author1: "Hector Garcia"
+	title: "ikigai",
+	author: "Hector Garcia",
+	published: 2016
 };
 book2 = {
-	title2: "Harry Potter and the Sorcerer's Stone",
-	author2: "J. K. Rowling"
+	title: "Harry Potter and the Sorcerer's Stone",
+	author: "J. K. Rowling",
+	published: "26 June 1997"
 };
-console.log(book1.title1 + " by " + book1.author1);
-console.log(book2.title2 + " by " + book2.author2);
-
+book3 = {
+	title: "The Hobbit",
+	author: "J.R.R.Tolkien",
+	published: 1937
+};
+console.log(book1.title + " by " + book1.author + "published in " + book1.published);
+console.log(book2.title + " by " + book2.author + "published in " + book2.published);
+console.log(book3.title + " by " + book3.author + "published in " + book3.published);
 
 
 /* Further Adventures
