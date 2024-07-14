@@ -1,8 +1,8 @@
 // Creating an empty object
 
-var book;
+var Book;
 
-book = {};
+Book = {};
 
 
 /* Further Adventures
