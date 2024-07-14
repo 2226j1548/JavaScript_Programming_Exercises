@@ -1,8 +1,7 @@
 // Declaring a variable
 
- var score;
-    score=100;
-    console.log(score);
+ var score1;
+ var score2;
 
 /* Further Adventures
  *
