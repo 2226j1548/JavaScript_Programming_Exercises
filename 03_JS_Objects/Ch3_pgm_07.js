@@ -2,15 +2,13 @@
 
 var book1;
 var book2;
-
 book1 = {
-    title : "The Hobbit",
-    author : "J. R. R. Tolkien"
+    title : "ikigai",
+    author : "Hector Garcia";
 };
-
 book2 = {
-	title : "Northern Lights",
-	author : "Philip Pullman"
+	title : "Harry Potter and the Sorcerer's Stone",
+	author : "J. K. Rowling"
 };
 
 
