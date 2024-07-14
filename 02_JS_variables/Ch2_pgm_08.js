@@ -10,7 +10,7 @@
      console.log(" successful splat");
      score = score + 100;
       console.log("New score:" + score);
-     console.log("congratulations);
+     console.log("congratulations");
 /* Further Adventures
  *
  * The player splats a kumquat.
