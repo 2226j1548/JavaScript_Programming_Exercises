@@ -1,11 +1,11 @@
 // Valid and invalid variable names
-//valid var names//
+//valid var names
 var thisIsFine;
 var $noProblemHere;
 var _underscore43;
 var StartWithCapital;
 var z5;
-//invalid var names//
+//invalid var names
 var 999;
 var 39Steps;
 var &nope;
