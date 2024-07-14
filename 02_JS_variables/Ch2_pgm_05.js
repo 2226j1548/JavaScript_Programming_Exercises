@@ -1,11 +1,12 @@
 // Assigning text to variables
 
 var message;
-    message="Hello everyone";
+    message="Hello" + "World";
     console.log(message);
-    var message;
-    message="Welcome you All";
-    console.log(message);
+ message = 'Congratulations!' + 'Your tweet has won' + 'a prize...';
+console.log(message);
+message = "Thank"+ "you";
+console.log(message);  
 
 
 
