@@ -1,10 +1,10 @@
 // Using prefixes to tell book variables apart
 
-var book1Title = "The Hobbit";
-var book1Author = "J.R.R.Tolkien";
+var book1Title = "Northern Lights";
+var book1Author = "Philip Pullman";
 
-var book2Title = "Northern Lights";
-var book2Author = "Philip Pullman";
+var book2Title = "The Hobbit";
+var book2Author = "J.R.R.Tolkien";
 
 var book3Title = "The Adventures of Tom Sawyer";
 var book3Author = "Mark Twain";
